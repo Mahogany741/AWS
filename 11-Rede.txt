@@ -1,0 +1,8 @@
+VPC = Virtual Private Cloud 
+
+É a forma de criar um ambiente virtual privado na nuvem 
+
+Toda VPC está dentro de uma região de disponibilidade. Toda subnet está dentro de uma VPC Por padrão ela não tem acesso a internet, para isso é necessário adicionar o recurso internet gateway
+
+Tabela de roteamento permite a conexão entre duas subnet
+
